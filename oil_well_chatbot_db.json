@@ -1,0 +1,70 @@
+{
+  "menu": {
+    "1": "input parameters",
+    "2": "simulate wells",
+    "3": "analyse production",
+    "4": "visualise result",
+    "5": "teach and interact",
+    "6": "teach math operation",
+    "7": "chat gpt room",
+    "8": "well report",
+    "9": "exit"
+  },
+  "wells": [
+    {
+      "well_name": "well_name",
+      "ipr": "ipr",
+      "decline_rate": "999",
+      "time": "8",
+      "oiip": "99"
+    },
+    {
+      "well_name": "jjjk",
+      "ipr": 66.0,
+      "decline_rate": 88.0,
+      "time": 88,
+      "oiip": 999.0
+    }
+  ],
+  "oil_well_report": [
+    [
+      "test",
+      "this is basically a practice test run",
+      "2024-03-19 new_report",
+      "2024-03-19 checking in again to see what is happending"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "test",
+      "answer": "reply"
+    },
+    {
+      "question": "hello",
+      "answer": "hi"
+    },
+    {
+      "question": "have you eaten?",
+      "answer": "I am a chatbot. I cannot eat like humans.\n However (if you insist), I would love a good 'chip and dip' for a binary snack \n\n Don't forget the 'cookies' for dessert"
+    },
+    {
+      "question": "that is a good joke. ",
+      "answer": "Thank you. I am glad you enjoyed it."
+    },
+    {
+      "question": "what is your name?",
+      "answer": "Blo"
+    },
+    {
+      "question": "who created you?",
+      "answer": "Godman Onah is my creator.\nA very cute guy."
+    },
+    {
+      "question": "Tell me some oil and gas jokes",
+      "answer": "sure.\n\nWhy did the oil rig break up with its partner?\nBecause it was tired of getting drilled!"
+    }
+  ],
+  "gpt_questions": [
+    {}
+  ]
+}
